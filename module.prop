@@ -1,0 +1,7 @@
+id=Raven_Marmotsk
+name=Raven
+version=v1.0
+versionCode=10
+author=sandkshnbh (Marmotsk)
+description=The Raven module by Marmotsk. Systemlessly installs Microsoft Fluent Emoji and a custom font pack. Inspired by Raven from Teen Titans.
+updateJson=https://raw.githubusercontent.com/sandkshnbh/Raven/main/updater.json
